@@ -1,0 +1,10 @@
+import random
+#global variables 
+availbility = input("Are the machines available for your workout?")
+
+def machineAvailbility(availbility):
+    if (availbility = "yes"):
+    
+    else:
+
+        
